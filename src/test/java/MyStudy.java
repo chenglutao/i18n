@@ -1,6 +1,3 @@
-import lombok.Data;
-import lombok.extern.slf4j.Slf4j;
-import org.junit.BeforeClass;
 import org.junit.Test;
 
 import java.text.NumberFormat;
@@ -9,10 +6,6 @@ import java.util.ResourceBundle;
 
 /**
  * @author chenglutao
- * @date 2019-11-28 17:14
- * @description
- * @package PACKAGE_NAME
- * @title
  */
 public class MyStudy {
 
